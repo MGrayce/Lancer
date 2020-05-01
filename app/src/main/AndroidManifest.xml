@@ -9,8 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.Fragment_Class"
-            android:theme="@style/AppTheme.NoActionBar" ></activity>
+        <activity android:name=".Categories.SoftDev"></activity>
+        <activity android:name=".Categories.Art_Design" />
+        <activity android:name=".Activities.Post_Job" />
+        <activity
+            android:name=".Activities.Fragment_Class"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Activities.Profile"
             android:theme="@style/AppTheme.NoActionBar" />

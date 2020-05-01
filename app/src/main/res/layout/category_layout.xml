@@ -13,7 +13,7 @@
     <de.hdodenhof.circleimageview.CircleImageView
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:src="@drawable/stats"
+        android:src="@null"
         android:layout_margin="10dp"
         android:layout_gravity="center"
         android:id="@+id/userImage"/>
